@@ -1,1 +1,2 @@
-# hack3-3_2
+# hack 3_2
+Ejercicio aplicando propiedad Position.
